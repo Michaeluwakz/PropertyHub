@@ -3,7 +3,7 @@
 Preview: https://sprightly-cheesecake-615868.netlify.app
 
 
-![Uploading Screenshot 2025-05-07 at 18.16.50.png…]()
+<img width="1438" alt="Screenshot 2025-05-07 at 18 16 50" src="https://github.com/user-attachments/assets/f4f7e0f3-93cf-4c12-a5ab-0d173e6679f2" />
 
 
 
